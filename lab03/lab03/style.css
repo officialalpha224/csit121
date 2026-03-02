@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(11, 12, 12);
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: rgb(69, 69, 211);
+  margin-left: 20px;
+}
+
+h2 {
+  color: rgb(69, 69, 211);
+  margin-left: 20px;
+}
+
+h3 {
+  color: rgb(69, 69, 211);
+  margin-left: 20px;
+}
+
+p {
+  font-size: 16px;
+  color: #caf728;
+}
+
+li {
+  font-size: 16px;
+  color: #caf728;
+}
+
+#unique-header {
+  background-color: blue;
+  color: white;
+}
+
+.highlight {
+  font-weight: bold;
+  color: green;
+}
